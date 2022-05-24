@@ -17,5 +17,9 @@ h1{
 
 }
 button{
-    background-color:rgb(143, 137, 126)
+    background-color:rgb(143, 137, 126);
+    font-family: cursive;
+    border-radius: 47%;
+    color: rgb(255, 255, 255);
+    padding: 10px;
 }
